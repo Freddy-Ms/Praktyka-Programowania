@@ -1,5 +1,3 @@
-# przykladowe funkcje utils .py
-
 """Funkcje do obliczen matematycznych"""
 
 """Funkcja dodajaca dwie liczby"""
