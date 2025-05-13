@@ -1,17 +1,28 @@
 """Funkcje do obliczen matematycznych"""
 
-def add (a: int, b: int) -> int:
+
+def add(a: int, b: int) -> int:
     """Funkcja dodajaca dwie liczby"""
-    return a + b
+    ans = a + b
 
-def subtract (a: int, b: int) -> int:
+    return ans
+
+
+def subtract(a: int, b: int) -> int:
     """Funkcja odejmujaca dwie liczby"""
-    return a - b
+    ans = a - b
 
-def multiply (a: int, b: int) -> int:
+    return ans
+
+
+def multiply(a: int, b: int) -> int:
     """Funkcja mnozaca dwie liczby"""
-    return a * b
+    ans = a * b
 
-def divide (a: int, b: int) -> float:
+    return ans
+
+
+def divide(a: int, b: int) -> float:
     """Funkcja dzielaca dwie liczby"""
-    return a / b
+    ans = a / b
+    return ans
